@@ -1,0 +1,157 @@
+appr_trade_name,appr_trade_code,noc_code,appr_sector,appr_ratio,tax_train_cred,fact_sheets,red_seal,cofq,otj_hours,in_class_hours,train_std_year,curr_std_year,trade_board,acad_entry_req
+Aboriginal Child Development Practitioner,620B,4214.0,SERVC,N,N,N,N,N,6480.0,720.0,2009,2009.0,N,12
+Agricultural Equipment Technician,425A,7312.0,AUTO,N,Y,Y,Y,Y,6280.0,720.0,2014,2010.0,Y,12
+Agricultural — Dairy Herdsperson,640D,8253.0,SERVC,N,N,N,N,N,5520.0,0.0,2009,2010.0,N,12
+Agricultural — Fruit Grower,640F,821.0,SERVC,N,N,N,N,N,5520.0,480.0,2000,2e3,N,12
+Agricultural — Swine Herdsperson,640S,8252.0,SERVC,N,N,N,N,N,5520.0,480.0,2000,2e3,N,12
+Alignment and Brakes Technician,310E,7321.0,AUTO,N,Y,Y,N,Y,5400.0,480.0,2003,2004.0,Y,12
+Appliance Service Technician,445A,7332.0,SERVC,N,N,Y,Y,Y,5280.0,720.0,2009,1999.0,Y,12
+Arborist,444A,2225.0,SERVC,N,N,Y,N,Y,5400.0,720.0,2007,2008.0,Y,12
+Architectural Glass and Metal Technician *,424A,7292.0,CONSTR,Y,Y,Y,Y,Y,7280.0,720.0,2008,2009.0,Y,10
+Assistant Cook,415B,6322.0,SERVC,N,N,Y,N,N,2640.0,360.0,2000,2e3,Y,10
+Auto Body and Collision Damage Repairer,310B,7322.0,AUTO,N,Y,Y,Y,Y,7280.0,720.0,2015,2006.0,Y,12
+Auto Body Repairer,310Q,7322.0,AUTO,N,Y,Y,N,Y,5520.0,480.0,2015,2006.0,Y,10
+Automotive Electronic Accessory Technician,310K,7321.0,AUTO,N,Y,N,N,Y,3e3,240.0,2003,2001.0,Y,12
+Automotive Glass Technician,274L,7322.0,AUTO,N,Y,N,N,N,3760.0,240.0,2005,2005.0,Y,12
+Automotive Painter,410N,7322.0,AUTO,N,Y,Y,Y,Y,4560.0,240.0,2015,2005.0,Y,12
+Automotive Service Technician,310S,7321.0,AUTO,N,Y,Y,Y,Y,6500.0,720.0,2015,2010.0,Y,12
+Baker,423A,6322.0,SERVC,N,N,N,N,N,5280.0,720.0,2003,2e3,Y,12
+Baker-Patissier,423C,6322.0,SERVC,N,N,Y,Y,Y,6130.0,870.0,2003,2e3,Y,12
+Bearings Mechanic,615A,7321.0,INDUST,N,Y,N,N,N,5760.0,240.0,2000,2e3,Y,12
+Blacksmith,600P,7384.0,INDUST,N,Y,N,N,N,5280.0,720.0,2000,2e3,N,12
+Brick and Stone Mason *,401A,7281.0,CONSTR,Y,Y,Y,Y,Y,4880.0,720.0,2007,2007.0,Y,8
+Cabinetmaker,438A,7272.0,INDUST,N,Y,N,Y,Y,7280.0,720.0,2007,2011.0,Y,12
+Cement (Concrete) Finisher,244G,7282.0,CONSTR,Y,Y,Y,Y,N,4500.0,480.0,2009,2004.0,Y,10
+Chef,415C,6321.0,SERVC,N,N,N,N,N,1900.0,360.0,2004,2008.0,Y,415A Cook Certificate of Qualification + 1 year
+Child Development Practitioner,620C,4214.0,SERVC,N,N,Y,N,N,5280.0,720.0,2003,2003.0,N,12
+Child and Youth Worker,620A,4212.0,SERVC,N,N,Y,N,N,6240.0,960.0,2006,2006.0,N,12
+Computer Numerical Control (CNC) Programmer,670C,2233.0,INDUST,N,Y,N,N,N,3760.0,240.0,2005,2008.0,N,C/Q
+Composite Structures Technician,267G,7315.0,INDUST,N,Y,N,N,N,5700.0,300.0,2000,2e3,N,12
+Concrete Pump Operator,637C,7611.0,CONSTR,N,Y,Y,N,N,2e3,159.0,2008,2008.0,Y,12
+Construction Boilermaker *,428A,7262.0,CONSTR,Y,Y,Y,Y,Y,5880.0,720.0,2004,2008.0,Y,10
+Construction Craft Worker,450A,7611.0,CONSTR,N,Y,Y,Y,Y,2400.0,480.0,2000,2002.0,Y,10
+Construction Millwright *,426A,7311.0,CONSTR,Y,Y,Y,N,Y,7280.0,720.0,2007,2011.0,Y,10
+Cook ,415A,6322.0,SERVC,N,N,Y,Y,Y,5280.0,720.0,2003,2002.0,Y,12
+Developmental Services Worker,620D,4212.0,SERVC,N,N,Y,N,N,3720.0,780.0,2008,2013.0,Y,12
+Die Designer,670D,7232.0,INDUST,N,Y,N,N,N,3760.0,240.0,2003,2003.0,Y,430A Certificate of Qualification
+Draftsperson — Mechanical,614A,2253.0,INDUST,N,Y,N,N,N,7400.0,600.0,2003,2003.0,Y,12
+Draftsperson — Plastic Mould Design,614B,2253.0,INDUST,N,Y,N,N,N,7400.0,600.0,2000,2e3,Y,12
+Draftsperson — Tool and Die Design,614C,2253.0,INDUST,N,Y,N,N,N,7400.0,600.0,2000,2e3,Y,12
+"Drywall, Acoustic and Lathing Applicator *",451A,7284.0,CONSTR,Y,Y,Y,N,Y,4800.0,600.0,2006,2003.0,Y,10
+Drywall Finisher and Plasterer *,453A,7284.0,CONSTR,Y,Y,Y,Y,Y,4920.0,480.0,2008,2008.0,Y,8
+Educational Assistant,620E,4413.0,SERVC,N,N,Y,N,N,2268.0,432.0,2000,2001.0,N,12
+Electric Motor System Technician,446A,7333.0,INDUST,N,Y,N,Y,Y,7520.0,480.0,2001,2001.0,N,12
+Electrical Control (Machine) Builder,617A,9525.0,INDUST,N,Y,N,N,N,5400.0,300.0,2000,2e3,N,12
+Electrician (Signal Maintenance),289F,7242.0,INDUST,N,Y,N,N,N,NA,0.0,NA,NA,N,12
+Electrician — Construction and Maintenance *,309A,7241.0,CONSTR,Y,Y,Y,Y,Y,8160.0,840.0,2003,2003.0,Y,10
+Electrician — Domestic and Rural *,309C,7241.0,CONSTR,Y,Y,Y,N,Y,6660.0,540.0,2003,2003.0,Y,10
+Electronic Service Technician,416E,2242.0,SERVC,N,Y,N,N,N,7280.0,720.0,NA,NA,N,12
+Elevating Devices Mechanic,636E,7318.0,INDUST,N,Y,Y,N,Y,7280.0,720.0,2008,2005.0,Y,12
+Entertainment Industry Power Technician,269E,5226.0,INDUST,N,Y,N,N,Y,4520.0,480.0,2004,2006.0,N,12
+Exterior Insulated Finish Systems Mechanic,455A,7293.0,CONSTR,N,Y,N,N,N,5400.0,400.0,2009,2009.0,Y,12
+Facilities Mechanic,255W,9241.0,INDUST,N,Y,N,N,Y,5520.0,480.0,2004,2005.0,Y,12
+Facilities Technician,255B,9241.0,INDUST,N,Y,N,N,Y,7280.0,720.0,2004,2005.0,Y,12
+Fitter — Assembler (Motor Assembly),661H,9525.0,INDUST,N,Y,N,N,N,7520.0,480.0,2000,2e3,N,12
+Floor Covering Installer *,448A,7295.0,CONSTR,Y,Y,Y,Y,Y,5400.0,600.0,2010,2009.0,Y,10
+Fuel and Electrical Systems Technician - No New Registrations,310C,7321.0,AUTO,N,Y,N,N,N,6500.0,0.0,NA,NA,Y,12
+Gemsetter/Goldsmith,606G,6344.0,SERVC,N,N,N,N,N,7520.0,480.0,2000,2e3,N,12
+General Carpenter *,403A,7271.0,CONSTR,Y,Y,Y,Y,Y,6480.0,720.0,2010,2014.0,Y,10
+General Machinist,429A,7231.0,INDUST,N,Y,Y,Y,Y,7280.0,720.0,2003,2008.0,Y,12
+Hairstylist,332A,6341.0,SERVC,N,N,Y,Y,Y,3020.0,480.0,2010,2012.0,Y,12
+"Hardware, Lumber and Building Materials Retailer",606W,6421.0,SERVC,N,N,N,N,N,4212.0,288.0,2006,2006.0,N,12
+Hazardous Materials Worker,253H,7611.0,CONSTR,N,Y,Y,N,Y,2898.0,102.0,2009,2009.0,Y,12
+Heat and Frost Insulator,253A,7293.0,CONSTR,Y,Y,Y,Y,N,5770.0,630.0,2011,2011.0,Y,10
+Heavy Duty Equipment Technician,421A,7312.0,AUTO,N,Y,Y,Y,Y,6280.0,720.0,2015,2010.0,Y,12
+Heavy Equipment Operator — Dozer,636C,7521.0,CONSTR,N,Y,Y,Y,N,2260.0,240.0,2002,2002.0,Y,12
+Heavy Equipment Operator — Excavator ,636B,7521.0,CONSTR,N,Y,Y,Y,N,2260.0,240.0,2002,2002.0,Y,12
+Heavy Equipment Operator — Tractor Loader Backhoe ,636A,7521.0,CONSTR,N,Y,Y,Y,N,2260.0,240.0,2002,2002.0,Y,12
+Hoisting Engineer — Mobile Crane Operator 1 *,339A,7371.0,CONSTR,Y,Y,Y,Y,Y,5520.0,480.0,1998,2007.0,Y,10
+Hoisting Engineer — Mobile Crane Operator 2 *,339C,7371.0,CONSTR,Y,Y,Y,N,Y,760.0,240.0,1998,2007.0,Y,10
+Hoisting Engineer — Tower Crane Operator *,339B,7371.0,CONSTR,Y,Y,Y,Y,Y,2640.0,360.0,1998,2007.0,Y,10
+Horse Groom,600H,6563.0,SERVC,N,N,N,N,N,3598.0,402.0,2008,2011.0, ,12
+Horse Harness Maker,219D,9445.0,SERVC,N,N,N,N,N,7400.0,600.0,2001,2001.0,N,12
+Horticultural Technician,441C,2225.0,SERVC,N,N,Y,Y,Y,5400.0,720.0,2010,2009.0,Y,12
+Hydraulic/Pneumatic Mechanic,277Z,7312.0,INDUST,N,Y,N,N,N,7400.0,600.0,2000,2e3,N,12
+Industrial Electrician,442A,7242.0,INDUST,N,Y,Y,Y,Y,8160.0,840.0,2011,2003.0,Y,12
+Industrial Mechanic Millwright,433A,7311.0,INDUST,N,Y,Y,Y,Y,7280.0,720.0,2010,2005.0,Y,12
+IT — Contact Centre Technical Support Agent,634A,2282.0,SERVC,N,N,N,N,N,3730.0,270.0,2011,2011.0,Y,12
+IT — Contact Centre Customer Service Agent,634E,6552.0,SERVC,N,N,N,N,N,3820.0,180.0,2011,2011.0,Y,12
+IT — Hardware Technician,634B,2282.0,SERVC,N,Y,N,N,N,6420.0,630.0,2007,2007.0,Y,12
+IT — Network Technician,634C,2283.0,SERVC,N,Y,N,N,N,6340.0,720.0,2006,2007.0,Y,12
+IT — Contact Centre  Sales Agent,634D,6552.0,SERVC,N,N,N,N,N,3820.0,180.0,2011,2011.0,Y,12
+Institutional Cook,415D,6322.0,SERVC,N,N,Y,Y,Y,3600.0,360.0,2011,2011.0,Y,12
+Instrumentation and Control Technician,447A,2243.0,INDUST,N,Y,Y,Y,Y,7280.0,720.0,2009,2008.0,Y,12
+Ironworker — Generalist *,420B,7236.0,CONSTR,Y,Y,N,Y,Y,7280.0,720.0,2013,2014.0,Y,10
+Ironworker — Structural and Ornamental *,420A,7236.0,CONSTR,Y,Y,N,Y,Y,5280.0,720.0,2013,2014.0,Y,10
+Light Rail Overhead Contact Systems Linesperson,207S,7244.0,INDUST,N,Y,N,N,N,8e3,120.0,2009,2009.0,N,12
+Locksmith,259L,7384.0,INDUST,N,Y,N,N,N,6e3,480.0,2000,2e3, ,12
+Machine Tool Builder and Integrator,430M,7316.0,INDUST,N,Y,N,N,Y,7280.0,720.0,2002,2008.0,Y,12
+Marine Engine Technician,435B,7311.0,AUTO,N,Y,Y,N,Y,4280.0,720.0,2004,2014.0,Y,12
+Metal Fabricator (Fitter),437A,7235.0,INDUST,N,Y,N,Y,Y,4680.0,720.0,2004,2008.0,Y,12
+Micro Electronics Manufacturer,630A,2241.0,SERVC,N,Y,N,N,N,3696.0,304.0,2005,2005.0,N,12
+Motive Power Machinist,410K,7231.0,AUTO,N,Y,N,N,Y,5340.0,660.0,2003,1998.0,N,12
+Motorcycle Technician,310G,7334.0,AUTO,N,Y,Y,Y,Y,5520.0,480.0,2003,2007.0,Y,12
+Mould Designer,670E,2232.0,INDUST,N,Y,N,N,N,3760.0,240.0,2003,2003.0,Y,431A Certificate of Qualification
+Mould Maker,431A,7232.0,INDUST,N,Y,N,N,Y,7280.0,720.0,2003,2008.0,Y,12
+Mould or Die Finisher,277M,7232.0,INDUST,N,Y,N,N,N,3760.0,240.0,2003,2003.0,Y,12
+Native Clothing and Crafts Artisan,296B,5244.0,SERVC,N,N,N,N,N,3520.0,480.0,2000,2e3, ,12
+Native Residential Construction Worker,296A,7611.0,CONSTR,N,Y,N,N,N,4e3,0.0,1998,1998.0,N,12
+Network Cabling Specialist,631A,7245.0,SERVC,N,Y,Y,N,Y,4e3,600.0,2014,2001.0,Y,12
+Optics Technician (Lens and Prism Maker),225A,3414.0,INDUST,N,Y,N,N,N,8e3,0.0,2000,2e3,N,12
+Packaging Machine Mechanic,609C,7311.0,INDUST,N,Y,N,N,N,7840.0,160.0,2002,2002.0,Y,12
+Painter and Decorator — Commercial and Residential*,404C,7294.0,CONSTR,Y,Y,Y,Y,Y,5280.0,720.0,2012,2004.0,Y,10
+Painter and Decorator — Industrial*,404D,7294.0,CONSTR,Y,Y,Y,N,Y,5280.0,720.0,2008,2004.0,Y,10
+Parts Technician,240P,1522.0,SERVC,N,Y,Y,Y,Y,5460.0,540.0,2008,2003.0,Y,12
+Pattern Maker,443A,7232.0,INDUST,N,Y,N,N,Y,7280.0,720.0,2004,2004.0,Y,12
+Plumber *,306A,7251.0,CONSTR,Y,Y,Y,Y,Y,8280.0,720.0,1999,2007.0,Y,10
+"Pool, Hot Tub and Spa — Installer",237T,7441.0,SERVC,N,Y,N,N,N,5520.0,480.0,2003,2010.0,N,12
+"Pool, Hot Tub and Spa — Service Technician",237S,7441.0,SERVC,N,Y,N,N,N,5520.0,480.0,2003,2010.0,N,12
+Powered Lift Truck Technician,282E,7334.0,AUTO,N,Y,Y,N,Y,6280.0,720.0,2002,2010.0,Y,12
+Powerline Technician *,434A,7244.0,CONSTR,Y,Y,Y,Y,Y,7617.0,383.0,2003,2007.0,Y,10
+Precast Concrete Erector,244K,7236.0,CONSTR,Y,Y,N,N,N,5400.0,0.0,1993,NA,N,10
+Precast Concrete Finisher,244L,7282.0,CONSTR,Y,Y,N,N,N,5400.0,0.0,1993,NA,N,10
+Precision Metal Fabricator,200G,7235.0,INDUST,N,Y,N,N,N,7280.0,720.0,1993,2008.0,N,12
+Pressure Systems Welder,456P,7237.0,INDUST,N,Y,N,N,Y,5280.0,480.0,2009,2010.0,Y,456A Certificate of Qualification Or Equivalent
+Process Operator — Food Manufacturing,246T,9461.0,INDUST,N,Y,N,N,N,4480.0,300.0,2007,2007.0,N,12
+Process Operator — Power,246R,9241.0,INDUST,N,Y,N,N,N,6480.0,720.0,2006,2006.0,N,12
+"Process Operator — Refinery, Chemical and Liquid Processes",246F,9232.0,INDUST,N,Y,N,N,N,6480.0,720.0,2000,2e3,N,12
+Process Operator — Wood Products,246W,9434.0,INDUST,N,Y,N,N,N,6e3,720.0,2011,2011.0,N,12
+Pump Systems Installer,263F,7311.0,INDUST,N,Y,N,N,N,4e3,360.0,2003,2003.0,N,12
+Railway Car Technician,268R,7314.0,INDUST,N,Y,N,N,Y,7280.0,720.0,2010,2008.0,N,12
+Recreation Vehicle Technician,690H,7384.0,AUTO,N,Y,N,Y,Y,6280.0,720.0,2016,2003.0,N,12
+Refractory Mason,401R,7281.0,CONSTR,N,Y,N,N,N,3760.0,240.0,2009,2009.0,Y,401A Certificate of Qualification
+Refrigeration and Air Conditioning Systems Mechanic *,313A,7313.0,CONSTR,Y,Y,Y,Y,Y,8280.0,720.0,2004,2008.0,Y,10
+Reinforcing Rodworker *,452A,7236.0,CONSTR,Y,Y,N,Y,Y,3640.0,360.0,2013,2014.0,Y,10
+Relay and Instrumentation Technician,288R,7243.0,INDUST,N,N,N,N,N,7680.0,320.0,2008,2008.0,N,12
+Residential Air Conditioning Systems Mechanic *,313D,7313.0,CONSTR,Y,Y,Y,N,Y,4020.0,480.0,2003,2008.0,Y,10
+Residential (Low Rise) Sheet Metal Installer *,308R,7233.0,CONSTR,Y,Y,Y,N,Y,4140.0,360.0,2010,2011.0,Y,10
+Restoration Mason,244H,7281.0,CONSTR,Y,Y,N,N,N,6e3,0.0,1992,1998.0,Y,10
+Retail Meat Cutter,245R,9462.0,SERVC,N,N,N,N,N,3460.0,540.0,2001,2001.0,N,12
+Roll Grinder/Turner,602H,7417.0,INDUST,N,Y,N,N,N,5760.0,240.0,2000,2e3,N,12
+Roofer *,449A,7291.0,CONSTR,Y,Y,Y,Y,Y,3520.0,480.0,1996,2009.0,Y,10
+Saddlery,219C,9445.0,SERVC,N,N,N,N,N,5440.0,560.0,2000,2e3,N,12
+Saw Filer/Fitter,611B,7384.0,INDUST,N,Y,N,N,N,8e3,0.0,2000,2e3,N,12
+Sheet Metal Worker *,308A,7233.0,CONSTR,Y,Y,Y,Y,Y,8280.0,720.0,1994,2003.0,Y,10
+Ski Lift Mechanic,297A,7311.0,INDUST,N,Y,N,N,Y,5520.0,480.0,2000,2e3,N,12
+Small Engine Technician,435A,7335.0,AUTO,N,Y,Y,N,Y,4520.0,480.0,2004,2014.0,Y,12
+Special Events Coordinator,297B,1226.0,SERVC,N,N,N,N,N,5e3,350.0,2003,2003.0,N,12
+Sprinkler and Fire Protection Installer *,427A,7252.0,CONSTR,Y,Y,Y,Y,Y,6480.0,720.0,2010,2007.0,Y,10
+Steamfitter *,307A,7252.0,CONSTR,Y,Y,Y,Y,Y,8280.0,720.0,1999,2009.0,Y,10
+Surface Blaster,278B,7372.0,INDUST,N,Y,N,N,Y,2240.0,360.0,2014,2001.0,N,12
+Surface Mount Assembler,630B,9523.0,INDUST,N,Y,N,N,N,5e3,0.0,NA,NA,N,12
+"Terrazzo, Tile and Marble Setter",241A,7283.0,CONSTR,Y,Y,Y,Y,Y,4780.0,820.0,2008,2009.0,Y,10
+Thin Film Technician,225F,NA,INDUST,N,Y,N,N,N,8e3,0.0,NA,NA,N,12
+"Tire, Wheel and Rim Mechanic",295A,7321.0,AUTO,N,Y,N,N,N,3700.0,300.0,2000,2e3,N,12
+Tool and Cutter Grinder,602C,9417.0,INDUST,N,Y,N,N,N,3760.0,240.0,2001,2001.0,Y,12
+Tool and Gauge Inspector,239B,7231.0,INDUST,N,Y,N,N,N,3830.0,170.0,2000,2e3,Y,430A Certificate of Qualification
+Tool and Die Maker,430A,7232.0,INDUST,N,Y,Y,Y,Y,7280.0,720.0,2002,2008.0,Y,12
+Tool/Tooling Maker,630T,7232.0,INDUST,N,Y,N,N,Y,7280.0,720.0,2004,2008.0,Y,12
+Tractor-Trailer Commercial Driver,638A,7511.0,INDUST,N,Y,Y,N,N,2e3,0.0,2005,2005.0,Y,10
+Transmission Technician,310D,7321.0,AUTO,N,Y,Y,N,Y,6e3,480.0,2003,2003.0,Y,12
+Truck and Coach Technician,310T,7321.0,AUTO,N,Y,Y,Y,Y,6e3,720.0,2016,2010.0,Y,12
+Truck-Trailer Service Technician,310J,7321.0,AUTO,N,Y,Y,Y,Y,4e3,480.0,2016,2011.0,Y,12
+Turf Equipment Technician,421C,7335.0,AUTO,N,Y,Y,N,N,5e3,720.0,2004,2014.0,Y,12
+Utility Arborist,444B,2225.0,SERVC,N,N,Y,N,Y,5340.0,720.0,2006,2008.0,Y,12
+Water Well Driller,605B,7373.0,INDUST,N,Y,N,N,N,4520.0,480.0,2000,2e3,N,12
+Welder,456A,7237.0,INDUST,N,Y,Y,Y,Y,5280.0,720.0,2007,2008.0,Y,12
+Wooden Boat Rebuilder,211W,7271.0,SERVC,N,N,N,N,N,8e3,0.0,2000,2e3,N,12
